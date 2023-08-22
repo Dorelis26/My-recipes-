@@ -1,5 +1,5 @@
 # My-recipes-
-Django web page were everyone can share their food recipes. 
+Django web page. everyone can share their food recipes. 
 ![image](https://user-images.githubusercontent.com/115403319/218624360-ba485077-0dbd-4ed3-aac3-7710471298b1.png)
 ![image](https://user-images.githubusercontent.com/115403319/218624497-834a7f53-0424-4d4a-b81c-556b36853ae5.png)
 ![image](https://user-images.githubusercontent.com/115403319/218624568-a892ca19-91eb-410f-b15e-248d9853a8d4.png)
